@@ -12,7 +12,7 @@ A modern, fully responsive website for a premium video editing and social media 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page - Hero Section](.home.png)
+![Home Page - Hero Section](./home.png)
 *Beautiful gradient hero section with animated call-to-action buttons and smooth parallax effects*
 
 ### 🎬 Portfolio Page
@@ -33,7 +33,6 @@ A modern, fully responsive website for a premium video editing and social media 
 
 > **Coming Soon:** Demo video will be added here
 
-<!-- Uncomment when you add the demo -->
 ![Demo](./demo.gif) 
 
 
@@ -320,5 +319,6 @@ Contributions are welcome! If you'd like to contribute:
 ### ⭐ Star this repository if you find it helpful!
 
 **Made with ❤️ for VaultofCodes** | © 2025 Editkaro.in
+
 
 </div>
